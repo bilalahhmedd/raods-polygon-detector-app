@@ -1,2 +1,3 @@
-# road-detection-gui-app
-GUI application to run models in images to detect road area , lanes on input image and draw detections in customized way
+# roads-polygon-detector-app
+Detects Polygon shapes in given road image. 
+GUI application to run computer vision models on input images to detect road area, lanes and draw detections.
