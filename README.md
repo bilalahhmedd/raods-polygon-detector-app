@@ -1,3 +1,5 @@
+![Application Screenshot](docs/images/1_cover.png)
+
 # Roads Polygon Detector App
 
 A desktop application for AI-assisted road and lane polygon detection from imagery using deep learning.
